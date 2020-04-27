@@ -1,3 +1,12 @@
+This repository contains:
+io_compaction software (full model, .c, .h, and makefile)
+IoBox (MATLAB code for the asymptotic approximation model)
+decompacting_boundary_layer (MATLAB for the decompaction boundary layer solution, used in IoBox)
+Data used to plot figures 2-7
+
+
+Information on full model:
+
 Io_Compaction is a piece of software that solves a system of partial differential equations describing the dynamic evolution of heat-pipe bodies, in particular Io. This software was written by Dan C Spencer.
 
 The model is written with the Portable, Extensible Toolkit for Scientific Computation (PETSc). PETSc can be installed from here:
